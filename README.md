@@ -1,4 +1,4 @@
-### Hi there 👋
+### A Data Analysis and Visualization specailist skilled in SQL, Tableau and Python. My expertise can be used to clean, analyse, interpret and visualize your data..
 
 <!--
 **davidkeya/davidkeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
